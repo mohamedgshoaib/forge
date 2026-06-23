@@ -244,7 +244,7 @@ This file is the working memory for the Forge rebuild. It exists to keep the pro
   - package is no longer private
   - license is MIT with a root `LICENSE` file
   - homepage points to `https://use-forge.vercel.app/`
-  - repository and issues metadata point to `https://github.com/mohamed-g-shoaib/forge`
+  - repository and issues metadata point to `https://github.com/mohamedgshoaib/forge`
   - npm `files` allowlist keeps the package limited to `dist`, `README.md`, `LICENSE`, and the branded favicon asset
   - published binaries are `forge` and `create-use-forge`
 - Root `README.md` has been rewritten for readability and calmer onboarding:

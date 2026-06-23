@@ -8,10 +8,10 @@
   "homepage": "https://use-forge.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamed-g-shoaib/forge.git"
+    "url": "git+https://github.com/mohamedgshoaib/forge.git"
   },
   "bugs": {
-    "url": "https://github.com/mohamed-g-shoaib/forge/issues"
+    "url": "https://github.com/mohamedgshoaib/forge/issues"
   },
   "keywords": [
     "forge",
